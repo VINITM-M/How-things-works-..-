@@ -1,0 +1,81 @@
+# Git and GitHub: Version Control Guide
+
+## Overview
+
+Git is a distributed version control system, and GitHub is a web-based platform for hosting and collaborating on repositories.
+
+## Git Basics
+
+### Core Concepts
+- **Repository**: A directory containing all project files and version history
+- **Commit**: A snapshot of changes at a point in time
+- **Branch**: A parallel version of the code for feature development
+- **Merge**: Combining changes from different branches
+
+### Essential Commands
+- **git init**: Initialize a new repository
+- **git clone**: Copy an existing repository
+- **git add**: Stage changes for commit
+- **git commit**: Save changes with a message
+- **git push**: Upload commits to remote repository
+- **git pull**: Download and merge remote changes
+- **git branch**: Create and manage branches
+- **git merge**: Combine branches
+
+## GitHub Workflow
+
+### Remote Repository
+- **GitHub Repository**: Hosting code on GitHub's servers
+- **Remote Tracking**: Synchronizing with remote repositories
+- **Push and Pull**: Sending and receiving changes
+
+### Collaboration Features
+- **Pull Requests**: Proposing changes for review
+- **Code Review**: Reviewing changes before merging
+- **Issue Tracking**: Managing tasks and bugs
+- **Discussions**: Team communication and decisions
+
+## Change Tracking
+
+### File Changes
+- **Modified Files**: Tracking which files have changed
+- **Change Detection**: Identifying what changed in each file
+- **Diff View**: Visualizing changes line by line
+- **Status Tracking**: Knowing the status of each file (modified, added, deleted)
+
+### Commit History
+- **Commit Messages**: Describing changes made
+- **Author Information**: Who made each change
+- **Timestamp**: When changes were made
+- **Commit Graph**: Visualizing commit history and branches
+
+## Repository Management
+
+### Setup and Configuration
+- **Clone Repository**: Getting a copy of code
+- **Remote Configuration**: Setting up remote URLs
+- **SSH Keys**: Secure authentication with GitHub
+- **User Configuration**: Setting git username and email
+
+### Advanced Features
+- **GitLab Integration**: Alternative to GitHub
+- **Linux Integration**: Using Git on Linux systems
+- **Environment Setup**: Configuring Git for development
+
+## Best Practices
+
+### Commit Practices
+- **Clear Messages**: Writing descriptive commit messages
+- **Atomic Commits**: One logical change per commit
+- **Regular Commits**: Committing frequently
+- **Meaningful Changes**: Grouping related changes together
+
+### Branching Strategy
+- **Feature Branches**: Creating branches for new features
+- **Main Branch**: Production-ready code
+- **Development Branch**: Integration branch for features
+- **Branch Naming**: Using clear, descriptive branch names
+
+---
+
+*Related: [Operating Systems](../operating-systems/os-hardware-communication.md)*
